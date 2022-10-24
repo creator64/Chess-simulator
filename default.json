@@ -1,0 +1,18 @@
+{
+	"players": 2,
+	"colors": ["white", "black"],
+	"cols": 8,
+	"rows": 8,
+	"data": {"A_1": ["Rook", "white"], "B_1": ["Knight", "white"], "C_1": ["Bishop", "white"], "D_1": ["Queen", "white"],
+			 "E_1": ["King", "white"], "F_1": ["Bishop", "white"], "G_1": ["Knight", "white"], "H_1": ["Rook", "white"],
+			 "A_2": ["Pawn", "white"], "B_2": ["Pawn", "white"], "C_2": ["Pawn", "white"], "D_2": ["Pawn", "white"],
+			 "E_2": ["Pawn", "white"], "F_2": ["Pawn", "white"], "G_2": ["Pawn", "white"], "H_2": ["Pawn", "white"],
+			 "A_3": null, "B_3": null, "C_3": null, "D_3": null, "E_3": null, "F_3": null, "G_3": null, "H_3": null,
+			 "A_4": null, "B_4": null, "C_4": null, "D_4": null, "E_4": null, "F_4": null, "G_4": null, "H_4": null,
+			 "A_5": null, "B_5": null, "C_5": null, "D_5": null, "E_5": null, "F_5": null, "G_5": null, "H_5": null,
+			 "A_6": null, "B_6": null, "C_6": null, "D_6": null, "E_6": null, "F_6": null, "G_6": null, "H_6": null,
+			 "A_7": ["Pawn", "black"], "B_7": ["Pawn", "black"], "C_7": ["Pawn", "black"], "D_7": ["Pawn", "black"],
+			 "E_7": ["Pawn", "black"], "F_7": ["Pawn", "black"], "G_7": ["Pawn", "black"], "H_7": ["Pawn", "black"],
+			 "A_8": ["Rook", "black"], "B_8": ["Knight", "black"], "C_8": ["Bishop", "black"], "D_8": ["Queen", "black"],
+			 "E_8": ["King", "black"], "F_8": ["Bishop", "black"], "G_8": ["Knight", "black"], "H_8": ["Rook", "black"]}
+}
